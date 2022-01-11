@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component:CompanySummary Should render Company Summary 1`] = `
+<div
+  className="company-summary"
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+>
+  <div
+    className="company-summary-img"
+  >
+    <img
+      className="logo-img"
+      src="https://placekitten.com/220/250"
+    />
+  </div>
+  <div
+    className="company-summary-name cut-text"
+    id="Company-summary-name"
+  >
+    Jumbo EX
+  </div>
+  <div
+    className="company-summary-specialties"
+  >
+    <span
+      className="flexwrap"
+      id="Specialty-tags"
+    >
+      <div
+        className="specialty-tag grey-theme"
+        id="Specialty-tag"
+        key="EXCAVATION"
+      >
+        Excavation
+      </div>
+      <div
+        className="specialty-tag blue-theme"
+        id="Specialty-tag"
+        key="PLUMBING"
+      >
+        Plumbing
+      </div>
+      <div
+        className="specialty-tag yellow-theme"
+        id="Specialty-tag"
+        key="ELECTRICAL"
+      >
+        Electrical
+      </div>
+      <div
+        className="specialty-tag orange-theme"
+        id="Specialty-tag"
+        key="FIRE_SAFETY"
+      >
+        Fire Safety
+      </div>
+    </span>
+  </div>
+  <div
+    className="company-summary-city cut-text"
+  >
+    Erster Schweizer Stadt
+  </div>
+</div>
+`;

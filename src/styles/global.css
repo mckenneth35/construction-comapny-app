@@ -1,0 +1,64 @@
+/* ICON */
+@import url('https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css');
+
+html * {
+  font-size     : 1em !important;
+  color         : #111111 !important;
+  /* color         : #ffffff !important; */
+  /* font-family: Arial !important; */
+}
+
+:root {
+  font-size  : 12px;
+  font-family: Nunito Sans Regular;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+::placeholder {
+  color  : #b2b2b2;
+  opacity: 1;
+}
+
+
+h1 {
+  font-size  : 24px !important;
+  font-weight: 700;
+  margin     : unset;
+}
+
+h2 {
+  font-size  : 20px !important;
+  font-weight: 600;
+  margin     : unset;
+}
+
+h3 {
+  font-size  : 16px !important;
+  font-weight: 500;
+  margin     : unset;
+}
+
+h4 {
+  font-size  : 14px !important;
+  font-weight: 400;
+  margin     : unset;
+}
+
+h5 {
+  font-size  : 12px !important;
+  font-weight: 400;
+  margin     : unset;
+}
+
+h6 {
+  font-size  : 11px !important;
+  font-weight: 400;
+  margin     : unset;
+}
+
+input[disabled]{
+  border: 1px solid #999999;
+  background-color: #eeeeee;
+  color: #bbbbbb !important;
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "name": "Albert Werner Excavation",
+    "logoUrl": "https://placekitten.com/100/100",
+    "specialties": [
+      "EXCAVATION"
+    ],
+    "city": "Berlin"
+  },
+  {
+    "id": 2,
+    "name": "Newton Einstein Edison Mozart da Vinchi McDonald Excavation",
+    "logoUrl": "https://placekitten.com/200/200",
+    "specialties": [
+      "EXCAVATION"
+    ],
+    "city": "London"
+  },
+  {
+    "id": 3,
+    "name": "GWS Construction",
+    "logoUrl": "https://placekitten.com/200/250",
+    "specialties": [
+      "EXCAVATION",
+      "PLUMBING",
+      "ELECTRICAL",
+      "FIRE_SAFETY"
+    ],
+    "city": "Berlin"
+  },
+  {
+    "id": 4,
+    "name": "Klusenburg IR Pro",
+    "logoUrl": "https://placekitten.com/220/200",
+    "specialties": [
+      "EXCAVATION",
+      "PLUMBING"
+    ],
+    "city": "Lens"
+  },
+  {
+    "id": 5,
+    "name": "Meyer & Partner Construction",
+    "logoUrl": "https://placekitten.com/520/530",
+    "specialties": [
+      "EXCAVATION",
+      "ELECTRICAL"    ],
+    "city": "Santa Claus Village Joulupukin Pajakylä"
+  },
+  {
+    "id": 6,
+    "name": "Nother-Bau",
+    "logoUrl": "https://placekitten.com/200/400",
+    "specialties": [
+      "PLUMBING"
+    ],
+    "city": "Munich"
+  },
+  {
+    "id": 7,
+    "name": "Prignitz",
+    "logoUrl": "https://placekitten.com/400/400",
+    "specialties": [
+      "FIRE_SAFETY"
+    ],
+    "city": "Antwerp"
+  },
+  {
+    "id": 8,
+    "name": "Sommer Road Building",
+    "logoUrl": "https://placekitten.com/400/200",
+    "specialties": [
+      "EXCAVATION",
+      "PLUMBING",
+      "ELECTRICAL"
+    ],
+    "city": "Geneva"
+  },
+  {
+    "id": 9,
+    "name": "Buenos Dias Construct",
+    "logoUrl": "https://placekitten.com/500/200",
+    "specialties": [
+      "EXCAVATION",
+      "FIRE_SAFETY"
+    ],
+    "city": "London"
+  },
+  {
+    "id": 10,
+    "name": "Marco Reus Electric",
+    "logoUrl": "https://placekitten.com/450/360",
+    "specialties": [
+      "ELECTRICAL"
+    ],
+    "city": "Dortmund"
+  },
+  {
+    "id": 11,
+    "name": "All Rounder Co",
+    "logoUrl": "https://placekitten.com/350/300",
+    "specialties": [
+      "EXCAVATION",
+      "PLUMBING",
+      "ELECTRICAL",
+      "FIRE_SAFETY"
+    ],
+    "city": "Paris"
+  },
+  {
+    "id": 12,
+    "name": "Musical Construction",
+    "logoUrl": "https://placekitten.com/500/700",
+    "specialties": [
+      "PLUMBING",
+      "ELECTRICAL"
+    ],
+    "city": "Vienna"
+  },
+  {
+    "id": 13,
+    "name": "Wenger & Wagner & Werner Excavation",
+    "logoUrl": "https://placekitten.com/60/50",
+    "specialties": [
+      "EXCAVATION",
+      "ELECTRICAL"
+    ],
+    "city": "Berlin"
+  },
+  {
+    "id": 14,
+    "name": "Alpha Wenger Excavation",
+    "logoUrl": "https://placekitten.com/500/500",
+    "specialties": [
+      "PLUMBING",
+      "ELECTRICAL",
+      "FIRE_SAFETY"
+    ],
+    "city": "Berlin"
+  },
+  {
+    "id": 15,
+    "name": "Albert Wagner Fire Safety",
+    "logoUrl": "https://placekitten.com/60/70",
+    "specialties": [
+      "FIRE_SAFETY"
+    ],
+    "city": "Berlin"
+  }
+]

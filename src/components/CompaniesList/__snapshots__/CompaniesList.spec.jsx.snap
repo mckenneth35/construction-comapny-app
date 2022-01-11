@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component:CompaniesList Should render CompaniesList with 3 companies 1`] = `
+<div>
+  <div
+    className="sticky-top top-panel"
+  >
+    <span
+      id="Heading"
+    >
+      <h1>
+        Companies
+      </h1>
+      <h3>
+         (3 Results)
+      </h3>
+    </span>
+    <div
+      className="name-search-div"
+    >
+      <input
+        className="name-search-input"
+        id="Search-name"
+        onChange={[Function]}
+        placeholder="Search by Company Name"
+        type="search"
+      />
+    </div>
+    <span
+      className="checkboxes-container"
+    >
+      <label
+        className="checkbox-container"
+        key="EXCAVATION"
+      >
+        <input
+          className="specialty-checkbox"
+          defaultChecked={false}
+          id="EXCAVATION"
+          onChange={[Function]}
+          type="checkbox"
+        />
+        <span
+          className="checkbox-label"
+        >
+          Excavation
+        </span>
+      </label>
+      <label
+        className="checkbox-container"
+        key="PLUMBING"
+      >
+        <input
+          className="specialty-checkbox"
+          defaultChecked={false}
+          id="PLUMBING"
+          onChange={[Function]}
+          type="checkbox"
+        />
+        <span
+          className="checkbox-label"
+        >
+          Plumbing
+        </span>
+      </label>
+      <label
+        className="checkbox-container"
+        key="ELECTRICAL"
+      >
+        <input
+          className="specialty-checkbox"
+          defaultChecked={false}
+          id="ELECTRICAL"
+          onChange={[Function]}
+          type="checkbox"
+        />
+        <span
+          className="checkbox-label"
+        >
+          Electrical
+        </span>
+      </label>
+      <label
+        className="checkbox-container"
+        key="FIRE_SAFETY"
+      >
+        <input
+          className="specialty-checkbox"
+          defaultChecked={false}
+          id="FIRE_SAFETY"
+          onChange={[Function]}
+          type="checkbox"
+        />
+        <span
+          className="checkbox-label"
+        >
+          Fire Safety
+        </span>
+      </label>
+    </span>
+    <hr />
+    <div
+      className="companies-list-table-head"
+    >
+      <div
+        className="company-summary-img"
+      />
+      <div
+        className="company-summary-name"
+      >
+        Name
+      </div>
+      <div
+        className="company-summary-specialties"
+      >
+        Specialties
+      </div>
+      <div
+        className="company-summary-city"
+      >
+        City
+      </div>
+    </div>
+    <hr />
+  </div>
+  <h4>
+    Loading
+  </h4>
+</div>
+`;
